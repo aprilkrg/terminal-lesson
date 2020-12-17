@@ -1,0 +1,1 @@
+To better teach students how to use the terminal, I've written my own lesson!
